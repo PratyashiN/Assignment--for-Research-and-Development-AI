@@ -327,9 +327,9 @@ M	Growth modulation	0.0	(−0.05, 0.05)
 X	Horizontal offset	50	(0, 100)
 4) Experimental Results
 Parameter	Optimal Value	Range	Validation
-θ	0.4908 rad (28.12°)	(0°, 50°)	✅
-M	0.02138	(−0.05, 0.05)	✅
-X	54.90195	(0, 100)	✅
+θ	0.4908 rad (28.12°)	(0°, 50°)	
+M	0.02138	(−0.05, 0.05)	
+X	54.90195	(0, 100)	
 
 Performance Metrics:
 
