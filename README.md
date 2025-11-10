@@ -5,6 +5,9 @@ The final optimized parameters are **θ = 0.534210 rad (30.61°)**, **M = 0.0287
 This study presents an enhanced approach for estimating unknown parameters of a parametric curve using a hybrid optimization method (Differential Evolution + L-BFGS-B) combined with arc-length-based parameterization.  
 The framework ensures robust convergence, smoothness, and accuracy through a multi-objective optimization strategy.
 
+## Desmos Code :
+\left(t\cos(0.534210)-e^{0.028714\left|t\right|}\cdot\sin(0.3t)\sin(0.534210)+56.251898,42+t\sin(0.534210)+e^{0.028714\left|t\right|}\cdot\sin(0.3t)\cos(0.534210)\right)
+
 ## 1. Introduction
 
 ### 1.1 Problem Statement
