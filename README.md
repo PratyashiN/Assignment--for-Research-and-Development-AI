@@ -167,8 +167,6 @@ matplotlib>=3.4.0
 ```
 
 ## References
-1. Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning.* MIT Press.  
-2. Ruder, S. (2017). *An Overview of Gradient Descent Optimization Algorithms.* arXiv:1609.04747.  
-3. Kingma, D. P., & Ba, J. (2015). *Adam: A Method for Stochastic Optimization.* ICLR.  
-4. Nocedal, J., & Wright, S. (2006). *Numerical Optimization (2nd ed.).* Springer.  
-5. Boyd, S., & Vandenberghe, L. (2018). *Convex Optimization.* Cambridge University Press.  
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning.* MIT Press. 
+- Nocedal, J., & Wright, S. (2006). *Numerical Optimization (2nd ed.).* Springer.  
+- Boyd, S., & Vandenberghe, L. (2018). *Convex Optimization.* Cambridge University Press.  
